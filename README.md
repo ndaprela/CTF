@@ -12,4 +12,4 @@
 * [Xiomara CTF 2018 - Slammer](https://github.com/ndaprela/CTF/blob/master/2018/XiomaraCTF2018/Slammer/writeup.md) ([video](https://www.youtube.com/watch?v=ODCNbM9_U4M))
 
 ## 2014
-* [Plaid CTF 2014 - kappa](https://#) TODO
+* Plaid CTF 2014 - kappa [Part 1](https://www.youtube.com/watch?v=Jb8waOJvACI) [Part 2]() TODO
