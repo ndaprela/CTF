@@ -2,7 +2,7 @@
 
 ## 2019
 * [m0lecon CTF 2019 - proof of pwn 1](https://github.com/ndaprela/CTF/blob/master/2019/m0lecon/proof_of_pwn1/writeup.md)
-* [RomHack CTF 2019 - babysh](https://0x41414141yt.github.io/RomHackCTF2019babysh/)
+* [RomHack CTF 2019 - babysh](https://www.youtube.com/watch?v=v-7Ibom0Gyo)
 
 ## 2018
 * [35C3 Junior CTF 2018 -  Arraymaster](https://www.youtube.com/watch?v=km6Doio6U5Q)
