@@ -185,4 +185,4 @@ sanitiz                         False
 [INFO]:  Process 17148 exited with code -7
 ```
 
-You can dowload [here](https://github.com/ndaprela/CTF/tree/master/2019/m0lecon/proof_of_pwn1) the challenge and the exploit.
+You can download [here](https://github.com/ndaprela/CTF/tree/master/2019/m0lecon/proof_of_pwn1) the challenge and the exploit.
