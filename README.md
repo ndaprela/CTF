@@ -1,5 +1,9 @@
 # CTF writeups
 
+## 2020
+* [Byte Bandits CTF 2020 - autobot](https://github.com/ndaprela/CTF/tree/master/2020/%20ByteBanditsCTF/autobot)
+* [Byte Bandits CTF 2020 - Extra Careful Bank](https://github.com/ndaprela/CTF/tree/master/2020/%20ByteBanditsCTF/Extra_Careful_Bank)
+
 ## 2019
 * [m0lecon CTF 2019 - proof of pwn 1](https://github.com/ndaprela/CTF/blob/master/2019/m0lecon/proof_of_pwn1/writeup.md)
 * [RomHack CTF 2019 - babysh](https://www.youtube.com/watch?v=v-7Ibom0Gyo)
