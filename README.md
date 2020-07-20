@@ -1,6 +1,9 @@
 # CTF writeups
 
 ## 2020
+* [rgbCTF 2020 - Advanced Reversing Mechanics 2](https://github.com/ndaprela/CTF/tree/master/2020/rgbCTF/Advanced%20Reversing%20Mechanics%202)
+* [rgbCTF 2020 - I Love Rainbows](https://github.com/ndaprela/CTF/tree/master/2020/rgbCTF/I%20Love%20Rainbows)
+* [rgbCTF 2020 - Occasionally Tested Protocol](https://github.com/ndaprela/CTF/tree/master/2020/rgbCTF/Occasionally%20Tested%20Protocol)
 * [Byte Bandits CTF 2020 - autobot](https://github.com/ndaprela/CTF/tree/master/2020/%20ByteBanditsCTF/autobot)
 * [Byte Bandits CTF 2020 - Extra Careful Bank](https://github.com/ndaprela/CTF/tree/master/2020/%20ByteBanditsCTF/Extra_Careful_Bank)
 
