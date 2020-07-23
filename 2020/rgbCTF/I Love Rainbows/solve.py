@@ -15,8 +15,6 @@ db={}
 for c in string.printable:
 	db[md5(c.encode("utf-8"))] = c
 	db[sha256(c.encode("utf-8"))] = c
-
-for c in string.printable:
 	for d in string.printable:
 		db[md5((c+d).encode("utf-8"))] = c+d
 		db[sha256((c+d).encode("utf-8"))] = c+d
